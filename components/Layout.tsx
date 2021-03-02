@@ -30,7 +30,7 @@ const Layout = ({ children, title = "Caeser Cipher" }: Props) => (
       <hr />
       <span>
         Naama Paulemont | 2021 |{" "}
-        <a href="https://github/junaama/caeser-cipher">Github</a>
+        <a href="https://github.com/junaama/caeser-cipher">Github</a>
       </span>
     </footer>
   </div>
